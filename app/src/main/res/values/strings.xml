@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lions</string>
+
+    <string name="title_0">Types of lions in Africa</string>
+    <string name="title_1">Types of lions around a world</string>
+    <string name="title_2">Lion population</string>
+    <string name="title_3">Lions we must save</string>
+    <string name="title_4">Lions as hunters</string>
+
+
+</resources>
